@@ -91,3 +91,17 @@ def encode_methods(text):
 # Example usage:
 text_input = input("Enter text to attempt encoding with various methods: ")
 encode_methods(text_input)
+
+# ------------------------------
+# Developer Information
+# ------------------------------
+# Script Name: Encoding & Decoding Tool
+# Author: Mohammadreza Darban
+# GitHub: https://github.com/mohamadrezadarban
+# Version: 1.0.0
+# Date Created: 2024-11-07
+# Description: A Python script to decode strings in various formats like Base64, Hex, URL, and more.
+# ------------------------------
+# "Coding is like magic, the more you learn, the more powerful you become."
+# ------------------------------
+# I LOVE YOU ALL
